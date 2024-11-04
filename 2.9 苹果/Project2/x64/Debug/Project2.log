@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\user\source\repos\Project2\Project2\FileName.cpp(10,11): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\user\source\repos\Project2\Project2\FileName.cpp(12,12): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+  Project2.vcxproj -> C:\Users\user\source\repos\Project2\x64\Debug\Project2.exe
