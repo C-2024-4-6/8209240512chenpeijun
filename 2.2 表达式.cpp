@@ -6,7 +6,7 @@ int main()
 	cin >> x;
 	if (x <= 0 || x >= 10)
 	{
-		cout << "x²»ÔÚ·¶Î§ÄÚ£¡" << endl;
+		cout << "xä¸åœ¨èŒƒå›´å†…ï¼" << endl;
 		return 0;
 	}
 	else if (x < 1)

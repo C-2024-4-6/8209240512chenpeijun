@@ -13,5 +13,5 @@ int main()
 		}
 	}
 	v = 0.8 * a / i;
-	cout << v<<endl<<a;
+	cout << v;
 }
