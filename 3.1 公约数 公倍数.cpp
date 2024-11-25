@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int gcd(int &a, int &b)
+int gcd(int a, int b)
 {
 	while (b != 0) {
 		int tmp = a;
@@ -16,6 +16,6 @@ int main()
 	cin >> a >> b;
 	max = gcd(a, b);
 	min = a / max * b;
-	cout << "×î´ó¹«Ô¼ÊýÎª" << max << "£¬×îÐ¡¹«±¶ÊýÎª" << min;
+	cout << "ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½Îª" << max << "ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îª" << min;
 	return 0;
 }
