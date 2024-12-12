@@ -10,7 +10,6 @@ int pear(int a)
 
 }
 int main()
-
 {
 	cout << pear(1);
 }

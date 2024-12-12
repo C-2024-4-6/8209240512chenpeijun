@@ -12,7 +12,7 @@ int main()
 
 {
 	int word = 0,a=0;
-	for (int i = 1;; i++)
+	for (int i = 2;; i++)
 	{
 		bool b = is_prime(i);
 		if (b == true)
